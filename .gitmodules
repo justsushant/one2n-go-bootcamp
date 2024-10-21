@@ -1,0 +1,21 @@
+[submodule "go-num-filter"]
+	path = go-num-filter
+	url = https://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@github.com/justsushant/go-num-filter.git
+[submodule "go-student-grading"]
+	path = go-student-grading
+	url = https://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@github.com/justsushant/go-student-grading.git
+[submodule "go-game-of-pig"]
+	path = go-game-of-pig
+	url = https://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@github.com/justsushant/go-game-of-pig.git
+[submodule "go-wc"]
+	path = go-wc
+	url = https://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@github.com/justsushant/go-wc.git
+[submodule "go-grep"]
+	path = go-grep
+	url = https://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@github.com/justsushant/go-grep.git
+[submodule "go-redis"]
+	path = go-redis
+	url = https://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@github.com/justsushant/go-redis.git
+[submodule "go-mongo-oplog-parser"]
+	path = go-mongo-oplog-parser
+	url = https://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@github.com/justsushant/go-mongo-oplog-parser.git
